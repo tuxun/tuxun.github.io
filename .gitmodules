@@ -1,0 +1,3 @@
+[submodule "leaflet-toy"]
+	path = leaflet-toy
+	url = https://github.com/tuxun/leaflet-toy.git
